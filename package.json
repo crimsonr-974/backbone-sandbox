@@ -1,0 +1,21 @@
+{
+  "name": "sandbox",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository" :
+    { "type" : "git"
+    , "url" : "https://github.com/crimsonr-974/backbone-sandbox.git"
+    },
+  "keywords": [
+    "backbone",
+    "web",
+    "applications",
+    "javascript"
+  ],
+  "author": "crimsonr",
+  "license": "ISC"
+}
