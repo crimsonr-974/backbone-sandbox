@@ -6,10 +6,10 @@
   "scripts": {
     "test": "test"
   },
-  "repository" :
-    { "type" : "git"
-    , "url" : "https://github.com/crimsonr-974/backbone-sandbox.git"
-    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crimsonr-974/backbone-sandbox.git"
+  },
   "keywords": [
     "backbone",
     "web",
@@ -17,5 +17,9 @@
     "javascript"
   ],
   "author": "crimsonr",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "jquery": "^2.1.1"
+  }
 }
